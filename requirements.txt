@@ -1,4 +1,4 @@
-numpy==1.17.4
+numpy==1.21.0
 pandas==1.2.3
 opencv==4.5.1
 pillow==8.4.1
